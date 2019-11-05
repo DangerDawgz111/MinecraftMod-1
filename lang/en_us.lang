@@ -1,0 +1,82 @@
+//Items
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+item.ruby_dog_collar.name=Ruby Dog Collar
+item.sapphire_dog_collar.name=Sapphire Dog Collar
+item.diamond_dog_collar.name=Diamond Dog Collar
+item.gold_dog_collar.name=Gold Dog Collar
+item.iron_dog_collar.name=Iron Dog Collar
+item.serendibite.name=Serendibite
+item.moonstone.name=Moonstone
+item.amazonite.name=Amazonite
+item.nether_star_stick.name=Nether Star Stick
+item.steel.name=Steel
+item.carbon.name=Carbon
+
+//Blocks
+tile.ruby_block.name=Block of Ruby 
+tile.sapphire_block.name=Block of Sapphire 
+tile.serendibite_block.name=Block of Serendibite 
+tile.moonstone_block.name=Block of Moonstone
+tile.steel_block.name=Steel Block
+tile.ruby_ore.name=Ruby Ore
+tile.sapphire_ore.name=Sapphire Ore 
+tile.serendibite_ore.name=Serendibite Ore
+tile.moonstone_ore.name=Moonstone Ore
+tile.amazonite_ore.name=Amazonite Ore
+tile.steel_door.name=Steel Door
+
+//Tools
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_sword.name=Ruby Sword
+item.ruby_axe.name=Ruby Axe
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_shovel.name=Ruby Shovel
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.sapphire_sword.name=Sapphire Sword
+item.sapphire_axe.name=Sapphire Axe
+item.sapphire_hoe.name=Sapphire Hoe
+item.sapphire_shovel.name=Sapphire Shovel
+item.emerald_pickaxe.name=Emerald Pickaxe
+item.emerald_sword.name=Emerald Sword
+item.emerald_axe.name=Emerald Axe
+item.emerald_hoe.name=Emerald Hoe
+item.emerald_shovel.name=Emerald Shovel
+item.moonstone_pickaxe.name=Moonstone Pickaxe
+item.moonstone_sword.name=Moonstone Sword
+item.moonstone_axe.name=Moonstone Axe
+item.moonstone_hoe.name=Moonstone Hoe
+item.moonstone_shovel.name=Moonstone Shovel
+item.serendibite_pickaxe.name=Serendibite Pickaxe
+item.serendibite_sword.name=Serendibite Sword
+item.serendibite_axe.name=Serendibite Axe
+item.serendibite_hoe.name=Serendibite Hoe
+item.serendibite_shovel.name=Serendibite Shovel
+
+//Armor
+item.sapphire_helmet.name=Sapphire Helmet
+item.sapphire_chestplate.name=Sapphire Chestplate
+item.sapphire_leggings.name=Sapphire Leggings
+item.sapphire_boots.name=Sapphire Boots
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_chestplate.name=Emerald Chestplate
+item.emerald_leggings.name=Emerald Leggings
+item.emerald_boots.name=Emerald Boots
+item.moonstone_helmet.name=Moonstone Helmet
+item.moonstone_chestplate.name=Moonstone Chestplate
+item.moonstone_leggings.name=Moonstone Leggings
+item.moonstone_boots.name=Moonstone Boots
+item.hat1.name=Pan Hat
+
+//Food
+item.evil_apple.name=Apple
+item.emerald_apple.name=Emerald Apple
+item.super_beef_raw.name=Raw Super Beef
+item.super_beef_cooked.name=Cooked Super Beef
+
+//Other
+itemGroup.DogUpgradesTab=Dog Upgrades
